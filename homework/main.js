@@ -23,6 +23,8 @@ Unix-ის შემქმნელებმა ჩათვალეს, რ�
 
 თვითონ JavaScript-ი კი შეიქმნა გაცილებით გვიან - 1995 წელს, ბრენდან აიხის მიერ Netscape-ისთვის. თავდაპირველად მას ერქვა Mocha, შემდეგ LiveScript და საბოლოოდ JavaScript.*/
 
+//task 
+
 function user (name) {
     console.log(`გამარჯობა ${name}`);
 }
